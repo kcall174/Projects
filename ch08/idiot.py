@@ -10,7 +10,8 @@ while True:
   
   if response == 'no':
     break
-    print('Thank you. Have a nice day.')
+
+print('Thank you. Have a nice day.')
    
   
   '''
