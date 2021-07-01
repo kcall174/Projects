@@ -15,7 +15,8 @@ print('Thank you. Have a nice day.')
    
   
   '''
-  You can also make use of the inputYesNo() function in non-English languages by passing yesVal and noVal keyword arguments. For example, the Spanish version of this program would have these two lines:
+  You can also make use of the inputYesNo() function in non-English languages by passing yesVal and noVal keyword arguments. 
+  For example, the Spanish version of this program would have these two lines:
 
     prompt = '¿Quieres saber cómo mantener ocupado a un idiota durante horas?\n'
     response = pyip.inputYesNo(prompt, yesVal='sí', noVal='no')
